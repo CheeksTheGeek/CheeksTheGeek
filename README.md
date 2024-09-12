@@ -1,4 +1,4 @@
-![](https://github.com/CheeksTheGeek/cheeksthegeek.github.io/blob/783304c7d9bb201dfdde4eb2e7d12fdb6d362920/nested-wavy.gif)
+![](https://github.com/CheeksTheGeek/CheeksTheGeek/blob/2acfa3159d00ccada02f6ec624fda7c31b6ee5af/nested-wavy-1030w.gif)
 
 Hi, I'm Chaitanya Sharma, an undergrad at [uwaterloo](https://uwaterloo.ca/) where I'm studying computer engineering with a specialization in quantum engineering and an option in artificial intelligence.
 
