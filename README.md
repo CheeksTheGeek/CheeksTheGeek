@@ -11,6 +11,7 @@ I'm actively working on some repositories/projects you might find of interest (s
 fun fact about me: I play tabla <img src="https://github.com/CheeksTheGeek/cheeksthegeek.github.io/blob/9ce73ee32a4d45ee8593308e295031f1766766b6/tabla.png" alt="tabla" height="24" style="vertical-align: text-bottom;">, an indian percussion instrument
 
 <sub><sup>btw, shaders are really cool, but really hard, and I've been trying to get into it as a hobby, but I need to first build some first principles for it, if you got some resources for it, hmu from any of the links on the side! exempli gratia, the one on the top, you can find the code on </sup></sub>[^1][^2]:
+![](https://github.com/CheeksTheGeek/CheeksTheGeek/blob/ac71d11d777d46c5475daa46eec82230e7007c62/rotpoly60fps.gif)
 
-[^1]: code on https://github.com/CheeksTheGeek/CheeksTheGeek/blob/696202f6c1a36c5c4ee61a610d4bdb65eae74327/shader.frag
+[^1]: code [here](https://github.com/CheeksTheGeek/CheeksTheGeek/blob/696202f6c1a36c5c4ee61a610d4bdb65eae74327/shader.frag) 
 [^2]: rendered with [shadergif](https://shadergif.com/) and co
